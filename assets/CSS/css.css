@@ -1,8 +1,13 @@
 
 /*
-body{
+.body{
 
-    background-image: url(../img/foto\ backgroung.png);
+    background-image: url(../IMG/fotopraia.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+.container {
+    background-color:  rgb(246, 255, 76);
 }
